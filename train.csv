@@ -1,0 +1,625 @@
+ID,Employee Name,Gender,Department,Employee Type,Hire Date,End Date,Reason To Leave,hasLeft
+1119,KARIM SHABAN.,M,Engineering,Intern,3/17/12,,,0
+1173,ANEEL,F,Production,Worker,3/29/09,,,0
+1355,NAZIM (A.BANK),F,Production,Worker,8/25/09,,,0
+1441,NIZAR NOORUALLAH,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+1851,GHULAM ALI AKBAR,F,Production,Executive,3/6/10,,,0
+2002,MUDDSAR C/O SCHON BANK,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+2042,SAHAR C/O SCHON BANK,F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+2122,ISHAN C/O MARIGASS,M,Engineering,Worker,2/8/12,,,0
+2344,AMIN SAJWANI,F,Engineering,Executive,3/5/12,,,0
+2451,KHALIL C/O RAHIM SURANI.,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+2678,MALIK MILK.,F,Engineering,Worker,4/20/12,,,0
+2733,NAFEES.,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+2768,MUKHTAR C/O ASLAM HAIDER,F,Engineering,Top Management,5/18/13,,,0
+2896,MANSOOR  HAIDER,M,Engineering,Executive,7/3/13,,,0
+2956,SALIMA NIZAR C/O AKBER NO,M,Engineering,Worker,9/14/13,,,0
+3015,AZAM STEEL C/O AK.N,F,Engineering,Worker,12/9/14,,,0
+3117,HANIF C/O AK,M,Engineering,Worker,10/17/15,,,0
+3210,RAJAB ALI WALI MOMD,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+3314,ANWAR C/O SALAHUDDIN,F,Human Resources,Executive,1/22/10,,,0
+4006,HASHAMUDDIN C/O RIZWAN.,M,Human Resources,Executive,11/13/12,,,0
+4314,SAJJAD HUSSAIN,M,Finance,Top Management,11/28/09,,,0
+4389,BASHARAT (HBL),M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+4412,GHANI BHAI C/O AK NOORANI,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+4446,IQBAL PATEL,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+4463,KHURAM SHEIKH,M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+4497,NSAR,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+4514,KAZIM C/O HABIB,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+4531,KAMRUDDIN.K.BHMANI.,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+4582,ARSHAD (MCB),M,Sales,Intern,2/2/09,,,0
+4599,SAMINA MASOOD,M,Finance,Executive,12/5/10,,,0
+4616,RAFIQ WAZIR ALI,F,Sales,Executive,7/1/09,,,0
+4633,REHAN C/O S.S,M,Product Development,Executive,5/28/14,,,0
+4650,SHAUKAT CHARANIA,M,Production,Worker,10/15/14,,,0
+4684,FAROOQ,F,Sales,Top Management,10/4/09,,,0
+4735,A.BAKSH,M,Sales,Management,11/16/09,,,0
+4752,SHABUDDIN C/O ANWAR,M,Finance,Executive,12/5/11,,,0
+4769,CHOTU BHAI (AGHA),M,Production,Worker,10/15/14,,,0
+4786,ZAR C/O NAZEER,M,Production,Intern,6/30/15,,,0
+4803,BADLA.,F,Sales,Executive,10/21/11,,,0
+4837,NAVROOZ,M,Production,Worker,8/23/15,,,0
+4854,ABDUL HAMID,M,Finance,Executive,12/15/11,,,0
+4871,LANOOR,M,Sales,Management,3/26/10,,,0
+4888,RAHIM NOORANI,F,Sales,Management,10/11/10,,,0
+10411 ,GHULAM ALI GILANI,M,Engineering,Worker,5/9/13,,,0
+10701 ,KHOJA,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+10725 ,NASRUDDIN QASSAM,M,Engineering,Worker,7/21/13,,,0
+11337 ,AZIZ AMIR ALI C/O CHOTOO,M,Engineering,Executive,6/30/13,,,0
+11641 ,ABID C/O KHALID JAMAL,M,Engineering,Executive,5/28/14,,,0
+12392 ,TANVEER IQBAL,M,Engineering,Worker,3/29/09,,,0
+12462 ,ASLAM C/O IJAZ,M,Engineering,Worker,8/25/09,,,0
+12716 ,KAMAL SAYEED KHAN.,M,Engineering,Top Management,3/6/10,,,0
+12717 ,AMANULLAH C/O SCHON BANK,M,Engineering,Management,1/29/11,,,0
+12817 ,AFZAL C/O GHANI BHAI,F,Sales,Management,6/30/13,,,0
+13191 ,AMIN,M,Engineering,Management,5/23/09,,,0
+13294 ,ABDUL RAUF,M,Engineering,Executive,10/15/14,,,0
+13455 ,ASIM C/O ASLAM HAIDER,M,Engineering,Executive,10/15/14,,,0
+13609 ,MADAD BHAI C/O AK.N,M,Engineering,Executive,6/30/15,,,0
+13616 ,MUHAMMAD RAFIQ,M,Engineering,Executive,8/23/15,,,0
+14270 ,J.K,M,Finance,Executive,7/1/09,,,0
+14282 ,JALAL C/O HASNAIN,M,Finance,Executive,10/4/09,,,0
+14382 ,LATIF K.K.I.,M,Finance,Worker,10/21/11,,,0
+14507,LAILA SHAMSUDDIN,M,Finance,Top Management,10/11/10,,,0
+14508 ,SULEMAN ZAVERI,M,Finance,Management,12/26/15,,,0
+14509,AMINA REHMAN,M,Finance,Management,4/3/16,,,0
+14510 ,ZAREEF KHAN,M,Human Resources,Executive,10/11/11,,,0
+14511,AKHTAR QURESHI,M,Human Resources,Management,2/2/09,,,0
+14521,AFTAB C/O MARI GAS,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+14522 ,ATTA MOHD,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+14523,BILQUEES LALANI,F,Product Development,Top Management,10/15/14,,,0
+14524 ,A.N C/O FAREED,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+14527,SAJ,F,Production,Management,8/23/15,,,0
+14535,JAFFERY,F,Production,Executive,7/1/09,,,0
+14536 ,AFTAB BHAI PATROL,F,Production,Management,10/4/09,,,0
+14537,NASEER  SADRUDIN,M,Product Development,Management,7/1/09,,,0
+14538 ,IMRAN C/O ALI RAZA.,F,Production,Executive,10/21/11,,,0
+14539,BADRUDDIN C\O SCHON BANK,F,Production,Executive,10/11/10,,,0
+14540 ,LAILA HEMANI,M,Product Development,Worker,10/4/09,,,0
+14541,L / M,M,Product Development,Worker,10/21/11,,,0
+14542 ,SULTAN C/O RAUF,M,Production,Executive,12/26/15,,,0
+14543,ERUM SADDRUDIN,M,Production,Intern,10/11/10,,,0
+14544 ,S.B,M,Production,Worker,12/26/15,,,0
+14545,A.E C/O AK.N,M,Production,Executive,4/3/16,,,0
+14546 ,BAGH ALI,M,Production,Top Management,10/11/11,,,0
+14547,DR. MALIKA,M,Production,Executive,2/2/09,,,0
+14548 ,ATIQ,M,Production,Management,11/16/09,,,0
+14549,DR. MANJIANI,M,Production,Executive,3/26/10,,,0
+14550 ,GHULAM ALI BHATIA,M,Production,Executive,5/9/13,,,0
+14551,NOMAN NOURDIN DOSSANI,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+14552 ,JAHANGIR C/O ABDUL MALIK,M,Sales,Intern,6/30/13,,,0
+14553,AMIN SHALWANI C/O R.D,M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+14554 ,S.K. VAZIR,M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+14555,SHAKEEL,M,Sales,Executive,8/25/09,06/06/15,Career Plateau,1
+14556 ,M.HUSSAIN LALANI,M,Sales,Executive,3/6/10,,,0
+14557,AASHIQ ALI LAKHANI,M,Sales,Worker,1/29/11,08/08/15,Work Environment,1
+14558 ,K I,M,Sales,Worker,5/23/09,,,0
+14559,X.Y.Z,M,Sales,Top Management,5/9/13,10/10/15,Career Plateau,1
+14564 ,ABID C/O BANK AL-HABIB,M,Engineering,Intern,3/17/12,,,0
+14565,IMRAN & RASHID,F,Production,Worker,3/29/09,,,0
+14566 ,NOORUDDIN A GONDALWALA,F,Production,Worker,8/25/09,,,0
+14567,ZULFIQAR C/O FAREED,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+14569,BUHCHO BHAI,F,Production,Executive,3/6/10,,,0
+14570 ,RUBINA C/O ASLAM HAIDER,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+14571,SALIM (CITEZEN ESTATE),F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+14573,RAHIM SURANI,M,Engineering,Worker,2/8/12,,,0
+14574 ,NAZEER DOSSANI,F,Engineering,Executive,3/5/12,,,0
+14575,ASLAM HAIDER ALI,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+14576 ,NASIR NOORANI,F,Engineering,Worker,4/20/12,,,0
+14577,ASIF ALAM,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+14578 ,MANSOOR MILK,F,Engineering,Top Management,5/18/13,,,0
+14579,A . A,M,Engineering,Executive,7/3/13,,,0
+14580 ,SADIQ C/O MARI GAS,M,Engineering,Worker,9/14/13,,,0
+14581,AMIN JESSANI,F,Engineering,Worker,12/9/14,,,0
+14583,AMIN LAKHANI,M,Engineering,Worker,10/17/15,,,0
+14584 ,CHARAG ZAMEER,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+14585,SHAMSUDDIN SHAKOOR,F,Human Resources,Executive,1/22/10,,,0
+14586 ,RAHIM JAFFRY,M,Human Resources,Executive,11/13/12,,,0
+14587,AKBAR MUSANI,M,Finance,Top Management,11/28/09,,,0
+14588 ,NIZAR SOHANI,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+14589,ZAHIR QURESHI,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+14591,IQBAL NOORANI,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+14592 ,ABBAS,M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+14594 ,QAMBER ALI,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+14595,SHAHBUDDIN BHIMANI,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+14596 ,MURAD (MCB),M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+14599,SHAHEEN NOORANI,M,Sales,Intern,2/2/09,,,0
+14600 ,RIZWAN C/O MARI GAS,M,Finance,Executive,12/5/10,,,0
+14601,ABDUL MALIK,F,Sales,Executive,7/1/09,,,0
+14602 ,JALAL BACHOO,M,Product Development,Executive,5/28/14,,,0
+14603,FEROZ ABDUL ALI,M,Production,Worker,10/15/14,,,0
+14605,HASNAIN (HBL),F,Sales,Top Management,10/4/09,,,0
+14608 ,RAMAZAN ALI K LALANI.,M,Sales,Management,11/16/09,,,0
+14609,NOORUDDIN K.LALANI,M,Finance,Executive,12/5/11,,,0
+14610 ,AKBAR ALI SHARIF,M,Production,Worker,10/15/14,,,0
+14611,MUSA BHAI NOORANI,M,Production,Intern,6/30/15,,,0
+14612 ,ASIM C/O KHURAM,F,Sales,Executive,10/21/11,,,0
+14614 ,AZIZ BARNI,M,Production,Worker,8/23/15,,,0
+14615,GULZAR C/O  BARKAT CHACHU,M,Finance,Executive,12/15/11,,,0
+14616 ,RAMZAN SOOMAR,M,Sales,Management,3/26/10,,,0
+14617,YASMIN IQBAL,F,Sales,Management,10/11/10,,,0
+14618 ,MALIK BEHRAIA,M,Engineering,Worker,5/9/13,,,0
+14619,SEHNAZ  AMIN,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+14620 ,S.E C/O AK.N,M,Engineering,Worker,7/21/13,,,0
+14621,SHOP #10,M,Engineering,Executive,6/30/13,,,0
+14622 ,GHULAM HAIDER,M,Engineering,Executive,5/28/14,,,0
+14623,IMRAN AZIZ,M,Engineering,Worker,3/29/09,,,0
+14624 ,AFTAB,M,Engineering,Worker,8/25/09,,,0
+14625,RAMZAN LALANI,M,Engineering,Top Management,3/6/10,,,0
+14626 ,NASROO HEMANI,M,Engineering,Management,1/29/11,,,0
+14627,SOHAIL SIKANDAR C/O AKN,F,Sales,Management,6/30/13,,,0
+14629,SHAHZAD C/O KHURAM,M,Engineering,Management,5/23/09,,,0
+14630 ,AHMED & ASHRAF,M,Engineering,Executive,10/15/14,,,0
+14631,MUHAMMAD ABID C/O AK.N,M,Engineering,Executive,10/15/14,,,0
+14632 ,SHAHID HUSSAIN,M,Engineering,Executive,6/30/15,,,0
+14633,ALMAS C/O KAMADIA NIZAR,M,Engineering,Executive,8/23/15,,,0
+14634 ,SALMA MOIZ C/O ZEENAT,M,Finance,Executive,7/1/09,,,0
+14635,THAIR,M,Finance,Executive,10/4/09,,,0
+14636 ,WAQAR HASAN C/O S.S,M,Finance,Worker,10/21/11,,,0
+14638 ,MJA,M,Finance,Top Management,10/11/10,,,0
+14639,CHEARTY,M,Finance,Management,12/26/15,,,0
+14640 ,M,M,Finance,Management,4/3/16,,,0
+14641,AHMED C/O S.S,M,Human Resources,Executive,10/11/11,,,0
+14642 ,KAMAL C/O S.S,M,Human Resources,Management,2/2/09,,,0
+14652 ,WASEEM PIR ZADA C/O S.S,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+14653,WAQAS,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+14654 ,NOORANI,F,Product Development,Top Management,10/15/14,,,0
+14655,PERVEZ C/O REHMAN BHAI,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+14658 ,SAZZ,F,Production,Management,8/23/15,,,0
+14666 ,BADRUDDIN SOHANI,F,Production,Executive,7/1/09,,,0
+14667,ZEENAT ABDUL MOHD C/O AK,F,Production,Management,10/4/09,,,0
+14668 ,MURAD HEMANI,M,Product Development,Management,7/1/09,,,0
+14669,ALI AZIZUDDIN,F,Production,Executive,10/21/11,,,0
+14670 ,N.Z,F,Production,Executive,10/11/10,,,0
+14671,AMYN  NOORANI,M,Product Development,Worker,10/4/09,,,0
+14672 ,ZAIN C/O ASLAM HAIDER,M,Product Development,Worker,10/21/11,,,0
+14673,ZESHAN C/O KHURAM,M,Production,Executive,12/26/15,,,0
+14674 ,TUFEL C/O S.M,M,Production,Intern,10/11/10,,,0
+14675,IMRAN SABIR C/O ASHIQ,M,Production,Worker,12/26/15,,,0
+14676 ,AMIN PATEL,M,Production,Executive,4/3/16,,,0
+14677,AKBER JAMAL C/O AK.N,M,Production,Top Management,10/11/11,,,0
+14678 ,SALEEM JAWEED C/O AK.N,M,Production,Executive,2/2/09,,,0
+14679,AMIR BANDE  ALI,M,Production,Management,11/16/09,,,0
+14680 ,RAHIM SHABAN C/O NAZEER,M,Production,Executive,3/26/10,,,0
+14681,ASHRAF REHMAN,M,Production,Executive,5/9/13,,,0
+14682 ,MEHBOOB MERCHANT,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+14683,BHABI C/O TUFAIL,M,Sales,Intern,6/30/13,,,0
+14684 ,PYAR ALI A HUSSAIN C/O F,M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+14685,SULEMAN C/O NAZEER,M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+14690 ,M & M C/O AKBER NOORANI,M,Engineering,Intern,3/17/12,,,0
+14691,A.SANI,F,Production,Worker,3/29/09,,,0
+14692 ,MANSOOR C/O ZAHEER,F,Production,Worker,8/25/09,,,0
+14693,S.BROTHERS,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+14695,MUNEERA C/O AK.N,F,Production,Executive,3/6/10,,,0
+14696 ,KASHIF,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+14697,FAMILY C/O AKBER NOORANI,F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+14699,JALAL WAZIR ALI,M,Engineering,Worker,2/8/12,,,0
+14700 ,SUKHYANI C/O A.M,F,Engineering,Executive,3/5/12,,,0
+14701,ZIAUR REHMAN C/O QAMAR,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+14702 ,NOOR ALI G.HUSSAIN,F,Engineering,Worker,4/20/12,,,0
+14703,K.S.L,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+14704 ,ISHTIAQ C/O S.S,F,Engineering,Top Management,5/18/13,,,0
+14705,AMIR RAZA C/O AK.N,M,Engineering,Executive,7/3/13,,,0
+14706 ,AYUAB SAYANI,M,Engineering,Worker,9/14/13,,,0
+14707,SARA SHER ALI,F,Engineering,Worker,12/9/14,,,0
+14709,ALMAN PUNJWANI C/O ANWER,M,Engineering,Worker,10/17/15,,,0
+14710 ,TAJUDDIN MERCHANT,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+14711,ROZMINA ABDUL MALIK,F,Human Resources,Executive,1/22/10,,,0
+14712 ,KHURAM AKBAR & CO,M,Human Resources,Executive,11/13/12,,,0
+14713,SHAHLA SIDIQUE,M,Finance,Top Management,11/28/09,,,0
+14714 ,XYZ C/O AK NOORANI,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+14715,S.S.COMPANY,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+14717,F. C/O ZAHEER,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+14718 ,AL-HADEED C/O AK.N,M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+14720 ,AA C/O AK.N,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+14721,ANWAR IBRAHIM,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+14722 ,AAA C/O A.M,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+14725,MOHAMMAD EJAZ,M,Sales,Intern,2/2/09,,,0
+14726 ,F.G,M,Finance,Executive,12/5/10,,,0
+14727,KHURAM C/O AK.N,F,Sales,Executive,7/1/09,,,0
+14728 ,AFJAL C/O GHANI BHAI,M,Product Development,Executive,5/28/14,,,0
+14729,R&R2,M,Production,Worker,10/15/14,,,0
+14731,AMIN ABDUL MALIK,F,Sales,Top Management,10/4/09,,,0
+14734 ,MURAD C/O FEROZ N.ALI,M,Sales,Management,11/16/09,,,0
+14735,AZIZ EASA,M,Finance,Executive,12/5/11,,,0
+14736 ,R & R,M,Production,Worker,10/15/14,,,0
+14737,BADRUDDIN VIRANI,M,Production,Intern,6/30/15,,,0
+14738 ,MUNEERA MEDHI,F,Sales,Executive,10/21/11,,,0
+14740 ,SALEEM ABDUL ALI,M,Production,Worker,8/23/15,,,0
+14741,RAHIM ASLAM,M,Finance,Executive,12/15/11,,,0
+14742 ,SALIMA HUSSAIN,M,Sales,Management,3/26/10,,,0
+14743,N.S,F,Sales,Management,10/11/10,,,0
+14744 ,MOHD AMIN C/O DR M.ALI,M,Engineering,Worker,5/9/13,,,0
+14745,SAIFUR REHMAN C/O MUKHTAR,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+14746 ,KARIM NOORUDDIN,M,Engineering,Worker,7/21/13,,,0
+14747,SADIQ AHMED C/O IQBAL BHA,M,Engineering,Executive,6/30/13,,,0
+14748 ,MUDASSIR C/O ZAHEER,M,Engineering,Executive,5/28/14,,,0
+14749,KAZIM C/0 MOIN,M,Engineering,Worker,3/29/09,,,0
+14750 ,FAROOQ C/O AK.N,M,Engineering,Worker,8/25/09,,,0
+14751,IQBAL AMIN C/O AKBER BHAI,M,Engineering,Top Management,3/6/10,,,0
+14752 ,MANSOOR C/O SHAHBUDDIN BH,M,Engineering,Management,1/29/11,,,0
+14753,SYED HABIB AK C/O FEROZ,F,Sales,Management,6/30/13,,,0
+14755,AK TRADERS C/O AK.N,M,Engineering,Management,5/23/09,,,0
+14756 ,ADEEB (HBL),M,Engineering,Executive,10/15/14,,,0
+14757,M.A.JAFFERY,M,Engineering,Executive,10/15/14,,,0
+14758 ,AMIR ALI C/O AKBER BHAI,M,Engineering,Executive,6/30/15,,,0
+14759,RAMZAN BHAI C/O SALIM.M,M,Engineering,Executive,8/23/15,,,0
+14760 ,PERWAIZ JINDANI,M,Finance,Executive,7/1/09,,,0
+14761,AMIN SHAHBUDDIN,M,Finance,Executive,10/4/09,,,0
+14762 ,MOHD ALI HADI,M,Finance,Worker,10/21/11,,,0
+14764 ,REHMAN SHAKOOR,M,Finance,Top Management,10/11/10,,,0
+14765,ISLAM BHAI C/O AK NOORANI,M,Finance,Management,12/26/15,,,0
+14766 ,SHAMSUDIN C/O DAYANI,M,Finance,Management,4/3/16,,,0
+14767,JAMIL HABIB C/O AK NORANI,M,Human Resources,Executive,10/11/11,,,0
+14768 ,KAMAL ENTERPRISE,M,Human Resources,Management,2/2/09,,,0
+14778 ,MUKHTAR C/O FEROZ N.ALI,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+14779,ABDUL MATEEN,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+14780 ,AKBAR NOORANI OLD,F,Product Development,Top Management,10/15/14,,,0
+14781,ANWAR SALEEM,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+14784 ,RANI AKMAL HUSSAIN C/OR.D,F,Production,Management,8/23/15,,,0
+14792 ,M.NADEEM C/O SHAFIQ.,F,Production,Executive,7/1/09,,,0
+14793,MASOOD BHAI,F,Production,Management,10/4/09,,,0
+14794 ,ASAD C/O SCHOM BANK,M,Product Development,Management,7/1/09,,,0
+14795,RAFIQ LALANI.,F,Production,Executive,10/21/11,,,0
+14796 ,AKBER NOORANI,F,Production,Executive,10/11/10,,,0
+14797,ZULFIQAR C/O INAYAT.,M,Product Development,Worker,10/4/09,,,0
+14798 ,SALIM NOORANI TRAVEL.,M,Product Development,Worker,10/21/11,,,0
+14799,RIAZ HABIBULLAH,M,Production,Executive,12/26/15,,,0
+14800 ,A.MEMON C/O IQBAL PATEL.,M,Production,Intern,10/11/10,,,0
+14801,AFTAB BHAI.,M,Production,Worker,12/26/15,,,0
+14802 ,AZIZ ZAVER.,M,Production,Executive,4/3/16,,,0
+14803,ADNAN SIDDIQEE,M,Production,Top Management,10/11/11,,,0
+14804 ,AMIR ALI (NAZIMABAD),M,Production,Executive,2/2/09,,,0
+14805,AMIR ALI NOORANI.,M,Production,Management,11/16/09,,,0
+14806 ,NOORDIN LALANI.,M,Production,Executive,3/26/10,,,0
+14807,AMIR ALI LAKDAWALLA,M,Production,Executive,5/9/13,,,0
+14808 ,GHULAM HUSSAIN BHATIA,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+14809,FARHAN C/O S.HIRANI.,M,Sales,Intern,6/30/13,,,0
+14810 ,NOOR ALI,M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+14811,AASHIQ BHAI (B),M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+14812 ,S.X,M,Sales,Executive,8/25/09,06/06/15,Career Plateau,1
+14813,JAFEER A.H(B).,M,Sales,Executive,3/6/10,,,0
+14814 ,FARIDA BAI.,M,Sales,Worker,1/29/11,08/08/15,Work Environment,1
+14815,REHMAN.,M,Sales,Worker,5/23/09,,,0
+14816 ,BAGH ALI (B).,M,Sales,Top Management,5/9/13,10/10/15,Career Plateau,1
+14821,ANWAR ABDULLAH,M,Engineering,Intern,3/17/12,,,0
+14822 ,NOORDIN DOSANI,F,Production,Worker,3/29/09,,,0
+14823,REHAN H.H.K,F,Production,Worker,8/25/09,,,0
+14824 ,SAM  C/O SAEED,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+14826 ,NAUSHAD,F,Production,Executive,3/6/10,,,0
+14827,NOORDIN CHATOOR,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+14828 ,SALIM MALIK,F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+14830 ,RAHIM QASIM ALI,M,Engineering,Worker,2/8/12,,,0
+14831,SOHAIL ANWAR,F,Engineering,Executive,3/5/12,,,0
+14832 ,MEHDI JAFFERY,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+14833,WASEEM C/O FAROOQ ZAIN,F,Engineering,Worker,4/20/12,,,0
+14834 ,KUDRAT ULLAH,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+14835,MEHMOOD H.B.L,F,Engineering,Top Management,5/18/13,,,0
+14836 ,MUMTAZ C/O AKHTER QURESHI,M,Engineering,Executive,7/3/13,,,0
+14837,MAJOR.M. ABDUL HAFEEZ.,M,Engineering,Worker,9/14/13,,,0
+14838 ,SHAHBUDDIN KHOJA,F,Engineering,Worker,12/9/14,,,0
+14840 ,TANVER H.B.L,M,Engineering,Worker,10/17/15,,,0
+14841,MUZHAR TAJDIN,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+14842 ,SATTAR  (STAFF),F,Human Resources,Executive,1/22/10,,,0
+14843,SCHON BANK LIMITED.,M,Human Resources,Executive,11/13/12,,,0
+14844 ,MOHAMMAD JAFFRY.,M,Finance,Top Management,11/28/09,,,0
+14845,SHAHID C/O MUDDSAR,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+14846 ,ALI RAZA,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+14848 ,SHOUAIB MOHD.,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+14849,H.B,M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+14851,JHANGIR BHAI.,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+14852 ,ANAR JINNAH.,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+14853,KARIMI,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+14856 ,MEHBOOB CAPRI,M,Sales,Intern,2/2/09,,,0
+14857,SHARIF ANSARI.,M,Finance,Executive,12/5/10,,,0
+14858 ,SHAHZAD C/O S.BANK,F,Sales,Executive,7/1/09,,,0
+14859,S.M.S,M,Product Development,Executive,5/28/14,,,0
+14860 ,AMIN SAJWANI,M,Production,Worker,10/15/14,,,0
+14862 ,SHAFIQ MAMDANI,F,Sales,Top Management,10/4/09,,,0
+14865,IFTEKHAR C/O SOHAIL ANWAR,M,Sales,Management,11/16/09,,,0
+14866 ,SYED RAZA,M,Finance,Executive,12/5/11,,,0
+14867,SYED MOHIB,M,Production,Worker,10/15/14,,,0
+14868 ,GHAYOOR C/O HUSSANI,M,Production,Intern,6/30/15,,,0
+14869,MASOOD,F,Sales,Executive,10/21/11,,,0
+14871,MABHOOB MATCHLESS,M,Production,Worker,8/23/15,,,0
+14872 ,JALAL C/O ISHRAT,M,Finance,Executive,12/15/11,,,0
+14873,AMYN MUNIR,M,Sales,Management,3/26/10,,,0
+14874 ,MOHD AKBAR C/O MUBEEN,F,Sales,Management,10/11/10,,,0
+14875,SHABIR ALI C/O ALI RAZA,M,Engineering,Worker,5/9/13,,,0
+14876 ,HABIB C/O IJAZ,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+14877,SHAUKAT VIRANI,M,Engineering,Worker,7/21/13,,,0
+14878 ,TARIQ KAZMI,M,Engineering,Executive,6/30/13,,,0
+14879,SHAMOON,M,Engineering,Executive,5/28/14,,,0
+14880 ,SHIRAZ CHATOOR,M,Engineering,Worker,3/29/09,,,0
+14881,SHAMSUDIN ALI MUKHI,M,Engineering,Worker,8/25/09,,,0
+14882 ,LATIF,M,Engineering,Top Management,3/6/10,,,0
+14883,MUKHTAR C/O AMLANI,M,Engineering,Management,1/29/11,,,0
+14884 ,SOHAIL CHAIE WALA,F,Sales,Management,6/30/13,,,0
+14886 ,NIHAL AKHTAR,M,Engineering,Management,5/23/09,,,0
+14887,ALI GROUP # 2,M,Engineering,Executive,10/15/14,,,0
+14888 ,AMIN AMLANI,M,Engineering,Executive,10/15/14,,,0
+14889,MAQBOL HBL MITHANI,M,Engineering,Executive,6/30/15,,,0
+14890 ,ASGHAR C/O HAKIM J.,M,Engineering,Executive,8/23/15,,,0
+14891,SHAHEEN  SADRUDIN,M,Finance,Executive,7/1/09,,,0
+14892 ,PERWEZ C/O AMIN AMLANI,M,Finance,Executive,10/4/09,,,0
+14893,AKHTAR ALAM,M,Finance,Worker,10/21/11,,,0
+14895,HAKIM JINNAH,M,Finance,Top Management,10/11/10,,,0
+14896 ,SHAMIM C/O AKHTAR,M,Finance,Management,12/26/15,,,0
+14897,S.M.HUSSAINI C/O SCHON,M,Finance,Management,4/3/16,,,0
+14898 ,ISHRAT,M,Human Resources,Executive,10/11/11,,,0
+14899,MUZAMIL,M,Human Resources,Management,2/2/09,,,0
+14909,AKHLAQ AHMED.,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+14910 ,IMRAN C/O SALAHUDDIN,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+14911,NAZEER,F,Product Development,Top Management,10/15/14,,,0
+14912 ,ALLAUDIN VIRANI,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+14915,AMIN S/O MUKHI ALI,F,Production,Management,8/23/15,,,0
+14923,A.AKHTAR C/O CHARAG.,F,Production,Executive,7/1/09,,,0
+14924 ,K.JAMIL C/O CHARAG.,F,Production,Management,10/4/09,,,0
+14925,SOHAIL C/O CHARAG,M,Product Development,Management,7/1/09,,,0
+14926 ,KARIM HEMANI,F,Production,Executive,10/21/11,,,0
+14927,BADRUDDIN COLAMBOWALA,F,Production,Executive,10/11/10,,,0
+14928 ,IJAZ.SHIRAZ,M,Product Development,Worker,10/4/09,,,0
+14929,KHAIRUN HEMANI,M,Product Development,Worker,10/21/11,,,0
+14930 ,SSIK,M,Production,Executive,12/26/15,,,0
+14931,JAWED BASHIR,M,Production,Intern,10/11/10,,,0
+14932 ,MOHD ALI C/O SABZALI,M,Production,Worker,12/26/15,,,0
+14933,AMIR ALI C/O ABDUL BHAI,M,Production,Executive,4/3/16,,,0
+14934 ,SHAHBUDDIN ZAVERI,M,Production,Top Management,10/11/11,,,0
+14935,IQBAL C/O AMIR ALI,M,Production,Executive,2/2/09,,,0
+14936 ,JAFFAR ALI HUSSAIN,M,Production,Management,11/16/09,,,0
+14937,KHURSHID C/O HUSNAIN HBL,M,Production,Executive,3/26/10,,,0
+14938 ,SADRUDDIN PUNJWANI,M,Production,Executive,5/9/13,,,0
+14939,UMAIR C/O SALAHUDDIN,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+14940 ,RAHEEL LALANI.,M,Sales,Intern,6/30/13,,,0
+14941,ABDUL BHIMANI,M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+14942 ,WAQAR JAFFERY,M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+14947,SALAUDDIN,M,Engineering,Intern,3/17/12,,,0
+14948 ,ASLAM.SALEEM,F,Production,Worker,3/29/09,,,0
+14949,HANEEF C/O MOIN,F,Production,Worker,8/25/09,,,0
+14950 ,ISMAIL HEMANI,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+14952 ,AKBAR BHAI,F,Production,Executive,3/6/10,,,0
+14953,G.H,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+14954 ,AMIR ALI,F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+14956 ,SAEED AKBER ALI,M,Engineering,Worker,2/8/12,,,0
+14957,JAWED IQBAL SIDIQUE,F,Engineering,Executive,3/5/12,,,0
+14958 ,QAMAR SAHAB,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+14959,DR.ANWAR,F,Engineering,Worker,4/20/12,,,0
+14960 ,PYAR ALI ISMAIL MANJI,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+14961,BANK & CASH,F,Engineering,Top Management,5/18/13,,,0
+14962 ,AMIRALI REMATHULLAH,M,Engineering,Executive,7/3/13,,,0
+14963,SHAHNAWAZ,M,Engineering,Worker,9/14/13,,,0
+14964 ,R. IQBAL,F,Engineering,Worker,12/9/14,,,0
+14966 ,RASOOL LADAK,M,Engineering,Worker,10/17/15,,,0
+14967,WAJAHAT HUSSAIN,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+14968 ,H.VIRANI,F,Human Resources,Executive,1/22/10,,,0
+14969,INAYAT,M,Human Resources,Executive,11/13/12,,,0
+14970 ,FEROZ MERCHANT,M,Finance,Top Management,11/28/09,,,0
+14971,S.S.M,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+14972 ,KAMAL JAFFARALI,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+14974 ,INAYAT PUNJWANI,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+14975,R.R.S.S.S,M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+14977,BUBBLE NOORANI,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+14978 ,HASSAN SHAHBAN,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+14979,MOIN GILANI,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+14982 ,SALIM ABDUL ALI,M,Sales,Intern,2/2/09,,,0
+14983,MOHAMMAD IQBAL,M,Finance,Executive,12/5/10,,,0
+14984 ,HAJI YOUNUS,F,Sales,Executive,7/1/09,,,0
+14985,ISRAR,M,Product Development,Executive,5/28/14,,,0
+14986 ,NIZAR NOORULLAH  NOORANI,M,Production,Worker,10/15/14,,,0
+14988 ,IMRAN (BARING),F,Sales,Top Management,10/4/09,,,0
+14991,SABZALI BHAI,M,Sales,Management,11/16/09,,,0
+14992 ,ZAHEER,M,Finance,Executive,12/5/11,,,0
+14993,ALI ASGHAR,M,Production,Worker,10/15/14,,,0
+14994 ,IRFAN C/O SOHAIL ANWAR,M,Production,Intern,6/30/15,,,0
+14995,AZIZ HEMANI,F,Sales,Executive,10/21/11,,,0
+14997,SALIM C/O ALI RAZA,M,Production,Worker,8/23/15,,,0
+14998 ,ISRAR C/O SALIM MITHANI,M,Finance,Executive,12/15/11,,,0
+14999,S.I,M,Sales,Management,3/26/10,,,0
+15000 ,M.SADIQ (CITIZEN STATE),F,Sales,Management,10/11/10,,,0
+15001,SHER ALI ISMAIL,M,Engineering,Worker,5/9/13,,,0
+15002 ,ROBINA JAFFER,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+15003,N.R,M,Engineering,Worker,7/21/13,,,0
+15004 ,IBRAHIM ALI BHAI,M,Engineering,Executive,6/30/13,,,0
+15005,OPEN,M,Engineering,Executive,5/28/14,,,0
+15006 ,NOBLE STEEL,M,Engineering,Worker,3/29/09,,,0
+15007,BILQUIS SHIRAZ LALANI,M,Engineering,Worker,8/25/09,,,0
+15008 ,CAPTAN SAEED AHMED,M,Engineering,Top Management,3/6/10,,,0
+15009,DILSHAD  JHANGIR ASSAR,M,Engineering,Management,1/29/11,,,0
+15010 ,S.R,F,Sales,Management,6/30/13,,,0
+15012 ,SOHAIL METANI  (PI-D 00364 KASB SUB A/C 35285),M,Engineering,Management,5/23/09,,,0
+15013,MURTUZA,M,Engineering,Executive,10/15/14,,,0
+15014 ,SULTAN JASANI,M,Engineering,Executive,10/15/14,,,0
+15015,BHAI MANSOOR,M,Engineering,Executive,6/30/15,,,0
+15016 ,DANYAL RAFIQ,M,Engineering,Executive,8/23/15,,,0
+15017,GROUP 01,M,Finance,Executive,7/1/09,,,0
+15018 ,PAPA TEMP,M,Finance,Executive,10/4/09,,,0
+15019,GROUP 2,M,Finance,Worker,10/21/11,,,0
+15021,ABIDDIN C/O MEDHI MUKHI,M,Finance,Top Management,10/11/10,,,0
+15022 ,QUDRATULLAH,M,Finance,Management,12/26/15,,,0
+15023,AZIZ PYAR ALI POONJA,M,Finance,Management,4/3/16,,,0
+15024 ,ZAFAR IQBAL C/O AK.N,M,Human Resources,Executive,10/11/11,,,0
+15025,SALMA MASI,M,Human Resources,Management,2/2/09,,,0
+15035,ASHOK C/O  BLD SWIPER,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+15036 ,AMIN NASRULLAH C/O FAREED,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+15037,N.I,F,Product Development,Top Management,10/15/14,,,0
+15038 ,ALI GROUP,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+15041,ALI C/O S.M.B,F,Production,Management,8/23/15,,,0
+15049,RAUF DANA,F,Production,Executive,7/1/09,,,0
+15050 ,ABDUL MALIK DVD A/C,F,Production,Management,10/4/09,,,0
+15051,MUHAMMAD IQBAL PREMIER TRADERS,M,Product Development,Management,7/1/09,,,0
+15052 ,MADAT ALI C/O MOHAMMAD CHACHA,F,Production,Executive,10/21/11,,,0
+15053,SALIM DHANANI C/O SHAFIQ MEHER,F,Production,Executive,10/11/10,,,0
+15054 ,MUKHTAR AL- AMAN,M,Product Development,Worker,10/4/09,,,0
+15055,AHMED ALI C/0 MOHD CHACHA,M,Product Development,Worker,10/21/11,,,0
+15056 ,DR. SALEEM,M,Production,Executive,12/26/15,,,0
+15057,JAWED HIRANI,M,Production,Intern,10/11/10,,,0
+15058 ,DR  AKBER ALI,M,Production,Worker,12/26/15,,,0
+15059,FARIDA C/O A.M,M,Production,Executive,4/3/16,,,0
+15060 ,ABDUL MALIK BROTHER,M,Production,Top Management,10/11/11,,,0
+15061,MOIZ C/O SHAFIQ,M,Production,Executive,2/2/09,,,0
+15062 ,MOIN MOHAJAR C/O FEROZ N ALI,M,Production,Management,11/16/09,,,0
+15063,S. ATHAR C/O FEROZ N ALI,M,Production,Executive,3/26/10,,,0
+15064 ,NORIEN HASSAN C/O AK.N,M,Production,Executive,5/9/13,,,0
+15065,MEDHI ABDUL MALIK,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+15066 ,SHAHNOOR SULTAN,M,Sales,Intern,6/30/13,,,0
+15067,SYED AMJAD (ACE SECURITIES),M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+15068 ,YASMEEN C/O REHMAN ALI BHAI,M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+15069,GULSHAN NOORANI,M,Sales,Executive,8/25/09,06/06/15,Career Plateau,1
+15070 ,AMINA NOORANI,M,Sales,Executive,3/6/10,,,0
+15071,MAHA NOORAN C/O FAREED NOORANI,M,Sales,Worker,1/29/11,08/08/15,Work Environment,1
+15072 ,MEHDI MOHAMMAD GHULAM,M,Sales,Worker,5/23/09,,,0
+15073,ALI C/O SHAFIQ MEHER ALI,M,Sales,Top Management,5/9/13,10/10/15,Career Plateau,1
+15078 ,RAMZAN ALI R. MEGHANI C/O SMD,M,Engineering,Intern,3/17/12,,,0
+15079,DIAMOND STEEL.,F,Production,Worker,3/29/09,,,0
+15080 ,SHANAZ KABANI,F,Production,Worker,8/25/09,,,0
+15081,RM-3,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+15083,S.L-3,F,Production,Executive,3/6/10,,,0
+15084 ,SSA,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+15085,"MOHSIN , ASIF & IMRAN C/O MEEZAN BANK",F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+15087,SHIREEN C/O AKN,M,Engineering,Worker,2/8/12,,,0
+15088 ,SAEED ALI SONS  C/O AKN,F,Engineering,Executive,3/5/12,,,0
+15089,RM-4,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+15090 ,K.M C/O SHAFIQ,F,Engineering,Worker,4/20/12,,,0
+15091,FEROZ NOORALI (B),M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+15092 ,SHOUKAT BHAI (NOORABAD FLATE # A-20),F,Engineering,Top Management,5/18/13,,,0
+15093,S.L 1,M,Engineering,Executive,7/3/13,,,0
+15094 ,KHALID C/O SHAFIQ,M,Engineering,Worker,9/14/13,,,0
+15095,MUNNA BHAI C/O NAZEER,F,Engineering,Worker,12/9/14,,,0
+15097,RAMZAN ALI K LALANI 2,M,Engineering,Worker,10/17/15,,,0
+15098 ,ILU C/O A.M,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+15099,NAEEM SHAB (PTCL),F,Human Resources,Executive,1/22/10,,,0
+15100 ,JANOO C/O KHALID SHAFIQ,M,Human Resources,Executive,11/13/12,,,0
+15101,AAM2,M,Finance,Top Management,11/28/09,,,0
+15102 ,ZEESHAN HASSAN C/O NIZAR KAMERIA,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+15103,MUMTAZ C/O S.S,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+15105,FAISAL C/O KHALID SHAFIQ,M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+15106 ,MANSOOR ALI (RIZA COM),M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+15108 ,H.K C/O HAMEED KABANI,M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+15109,RM-5,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+15110 ,HUMAYUN C/O SHAKEEL,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+15113,FA2,M,Sales,Intern,2/2/09,,,0
+15114 ,SHOUKAT ALI NIZARI C/O NAZEER,M,Finance,Executive,12/5/10,,,0
+15115,ABDUL MALIK A/C DVD-2,F,Sales,Executive,7/1/09,,,0
+15116 ,ARIEN C/O ABDUL MALIK,M,Product Development,Executive,5/28/14,,,0
+15117,MALIK BHAI C/O MEHENDI MUKHI,M,Production,Worker,10/15/14,,,0
+15119,NADIA C/O MEHDI MUKHI,F,Sales,Top Management,10/4/09,,,0
+15122 ,SHEZAL & SANIA,M,Sales,Management,11/16/09,,,0
+15123,NOORULLAH C/O KABIR KAMEDIA,M,Finance,Executive,12/5/11,,,0
+15124 ,SALEEM CAR MECANIC,M,Production,Worker,10/15/14,,,0
+15125,SABIR HUSSAIN,M,Production,Intern,6/30/15,,,0
+15126 ,MARIUM BAI NOORANI,F,Sales,Executive,10/21/11,,,0
+15128 ,JUNAID C/O AMIN,M,Production,Worker,8/23/15,,,0
+15129,FARZANA C/O REHMAN ALI BHAI,M,Finance,Executive,12/15/11,,,0
+15130 ,IRFAN RAMZAN,M,Sales,Management,3/26/10,,,0
+15131,SHABINA EJAZ,F,Sales,Management,10/11/10,,,0
+15132 ,USA STEEL C/O AKN,M,Engineering,Worker,5/9/13,,,0
+15133,MOHAMMAD SARWER  C/O CHAND,F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+15134 ,SOHAIL BALOUCH,M,Engineering,Worker,7/21/13,,,0
+15135,NADEEM K.E.S.C,M,Engineering,Executive,6/30/13,,,0
+15136 ,ZARINA BHABHI,M,Engineering,Executive,5/28/14,,,0
+15137,MINHAJ EJAZ,M,Engineering,Worker,3/29/09,,,0
+15138 ,EJAZ-UL-YAQEEN,M,Engineering,Worker,8/25/09,,,0
+15139,ASIF C/O MANSOOR BHAI,M,Engineering,Top Management,3/6/10,,,0
+15140 ,ROYAL DIAMOND C/O AKN,M,Engineering,Management,1/29/11,,,0
+15141,BANK C/O SHAFIQ MEHER,F,Sales,Management,6/30/13,,,0
+15143,K.K.I C/O MOIZ,M,Engineering,Management,5/23/09,,,0
+15144 ,AMAN C/O S.M,M,Engineering,Executive,10/15/14,,,0
+15145,AMAN-2 C/O S.M,M,Engineering,Executive,10/15/14,,,0
+15146 ,FEROZ ALI LALANI,M,Engineering,Executive,6/30/15,,,0
+15147,A-15,M,Engineering,Executive,8/23/15,,,0
+15148 ,ATIF HASSAN C/O KASHIF,M,Finance,Executive,7/1/09,,,0
+15149,AHMED YASIR C/O KASHIF,M,Finance,Executive,10/4/09,,,0
+15150 ,AMIN NOORANI,M,Finance,Worker,10/21/11,,,0
+15152 ,STAFF,M,Finance,Top Management,10/11/10,,,0
+15153,AAA INTERNATIONAL,M,Finance,Management,12/26/15,,,0
+15154 ,DANYAL C/O AK.N,M,Finance,Management,4/3/16,,,0
+15155,ASLAM TELEPHONEWALA,M,Human Resources,Executive,10/11/11,,,0
+15156 ,DR ANWAR ALI KHAWAJA,M,Human Resources,Management,2/2/09,,,0
+15166 ,MUHAMMAD ASIF C/O ILYAS,F,Product Development,Executive,5/23/09,09/08/16,Better Opportunity,1
+15167,M.D C/O SHAFIQ,F,Product Development,Worker,10/15/14,10/09/16,Work Environment,1
+15168 ,IMRAN KHAN  C/O CAPT SAEED,F,Product Development,Top Management,10/15/14,,,0
+15169,M.YOUNUS C/O ABDUL BHIMANI,F,Production,Management,6/30/10,12/11/16,Family Relocation,1
+15172 ,AKBER BALOUCH,F,Production,Management,8/23/15,,,0
+15180 ,A-1 NAZAMABAD,F,Production,Executive,7/1/09,,,0
+15181,MANSOOR C/O SHAFIQ,F,Production,Management,10/4/09,,,0
+15182 ,SULTAN LUTFEALI,M,Product Development,Management,7/1/09,,,0
+15183,ZULFIQAR ALI,F,Production,Executive,10/21/11,,,0
+15184 ,IQBAL TAILORS,F,Production,Executive,10/11/10,,,0
+15185,SHABUDDIN LALANI B,M,Product Development,Worker,10/4/09,,,0
+15186 ,ARIF C/O SHAFIQ,M,Product Development,Worker,10/21/11,,,0
+15187,MOHAMMAD KHIMANI,M,Production,Executive,12/26/15,,,0
+15188 ,DR ANNIE C/O EJAZ,M,Production,Intern,10/11/10,,,0
+15189,S.S # 2,M,Production,Worker,12/26/15,,,0
+15190 ,ABDUL REHMAN ANSARI,M,Production,Executive,4/3/16,,,0
+15191,CAP AFTAB NADEEM,M,Production,Top Management,10/11/11,,,0
+15192 ,N.B C/O IQBAL NOORANI,M,Production,Executive,2/2/09,,,0
+15193,DAMANI C/O AKN,M,Production,Management,11/16/09,,,0
+15194 ,SHAFI,M,Production,Executive,3/26/10,,,0
+15195,ASLAM BHAI (METBK,M,Production,Executive,5/9/13,,,0
+15196 ,ALI MEEZAN,M,Production,Worker,7/21/13,09/15/16,Better Opportunity,1
+15197,RAHIM BACHLEYANI,M,Sales,Intern,6/30/13,,,0
+15198 ,ASMA C/O SHAKEEL,M,Sales,Worker,5/28/14,03/03/15,Family Relocation,1
+15199,ATIQ SHEIKH,M,Sales,Worker,3/29/09,04/04/15,Work Environment,1
+15204 ,SSN,M,Engineering,Intern,3/17/12,,,0
+15205,MINHAS C/O FAREED,F,Production,Worker,3/29/09,,,0
+15206 ,R.L-2,F,Production,Worker,8/25/09,,,0
+15207,S.L-2,M,Production,Management,5/23/09,06/05/16,Better Opportunity,1
+15209,KARIM NOORANI (BABU DADA),F,Production,Executive,3/6/10,,,0
+15210 ,AA-2 C/O AKN,M,Engineering,Worker,7/14/10,08/08/15,Better Opportunity,1
+15211,ZOHAIR C/O REHMAN ALI BHAI,F,Production,Executive,1/29/11,03/02/16,Family Relocation,1
+15213,BADAR JAHAN FAROOQUE,M,Engineering,Worker,2/8/12,,,0
+15214 ,ZAKIYA,F,Engineering,Executive,3/5/12,,,0
+15215,NIZAR BADRUDDIN SOHANI,F,Engineering,Executive,3/14/12,09/09/15,Better Opportunity,1
+15216 ,ZEESHAN KABANI,F,Engineering,Worker,4/20/12,,,0
+15217,SEHRISH LALANI,M,Engineering,Executive,9/21/12,11/10/16,Family Relocation,1
+15218 ,NADIA BARKAT (B),F,Engineering,Top Management,5/18/13,,,0
+15219,AKBER BANDA ALI,M,Engineering,Executive,7/3/13,,,0
+15220 ,MALIK PUNJAWANI,M,Engineering,Worker,9/14/13,,,0
+15221,BASHIR SULTAN/AZIZ SULTAN,F,Engineering,Worker,12/9/14,,,0
+15223,SAEED C/O S.L,M,Engineering,Worker,10/17/15,,,0
+15224 ,NAZIM C/O REHMAN DAYANI,F,Engineering,Executive,2/19/01,04/04/15,Better Opportunity,1
+15225,ABDUL REHMAN,F,Human Resources,Executive,1/22/10,,,0
+15226 ,HABIBA ALLAUDDIN,M,Human Resources,Executive,11/13/12,,,0
+15227,TAJUDDIN S.MEVAWALA,M,Finance,Top Management,11/28/09,,,0
+15228 ,SADRUDDIN GILLANI,M,Product Development,Top Management,6/30/13,03/03/15,Work Environment,1
+15229,METBK W/H TAX,F,Product Development,Worker,7/21/13,10/15/16,Career Plateau,1
+15231,BANK SONERI SHIRAZ / SHABAN(38224),M,Finance,Management,1/10/10,07/07/15,Family Relocation,1
+15232 ,BANK NIB SHIRAZ / SHABAN(231959),M,Sales,Executive,5/5/11,11/11/15,Better Opportunity,1
+15234 ,BANK NIB BILQUIS / SHIRAZ(231975),M,Sales,Executive,7/21/13,11/15/16,Work Environment,1
+15235,BISI A/C,M,Finance,Management,5/20/10,09/08/16,Better Opportunity,1
+15236 ,AZIIZ CHITALWALA,M,Sales,Worker,10/11/11,07/06/16,Work Environment,1
+15239,BANK SNBL BILQUEES / SHIRAZ (1309328),M,Sales,Intern,2/2/09,,,0
+15240 ,MAINTAINANCE GRAND RESIDENCY,M,Finance,Executive,12/5/10,,,0
+15241,ZEESHAN KABANI 2,F,Sales,Executive,7/1/09,,,0
+15242 ,JAFFAR SADIQ,M,Product Development,Executive,5/28/14,,,0
+15243,SHANAZ KABANI RENTAL A/C,M,Production,Worker,10/15/14,,,0
+15245,SOHAIL LALANI,F,Sales,Top Management,10/4/09,,,0
+15248 ,ABDUL SAMAD,M,Sales,Management,11/16/09,,,0
+15249,ABBAS AASHOOR,M,Finance,Executive,12/5/11,,,0
+15250 ,MOHSIN C/O ABBAS,M,Production,Worker,10/15/14,,,0
+15251,BANK SNBL RAHEEL/SHIRAZ (1367377),M,Production,Intern,6/30/15,,,0
+15252 ,BANK BAHL SHABAN / SHIRAZ GOAL MKT BR,F,Sales,Executive,10/21/11,,,0
+15254 ,BANK NIB RAHIL/SHIRAZ,M,Production,Worker,8/23/15,,,0
+15255,AZIZ CHITALWALA 1,M,Finance,Executive,12/15/11,,,0
+15256 ,WM,M,Sales,Management,3/26/10,,,0
+15257,BANK BAHL BL (DEFENCE),F,Sales,Management,10/11/10,,,0
+15258 ,BANK BAHL SL (DEFENCE),M,Engineering,Worker,5/9/13,,,0
+15259,BANK METBL SHABAN (JOHAR),F,Sales,Management,7/21/13,11/11/15,Family Relocation,1
+15260 ,BANK BAHL SL (CLIFTON),M,Engineering,Worker,7/21/13,,,0
+15261,BANK HBL (SL) F.EXCHANGE,M,Engineering,Executive,6/30/13,,,0
+15262 ,BANK NIB (PICIC) (CLIFTON),M,Engineering,Executive,5/28/14,,,0
+15263,BANK METBL SL (B.BASIN),M,Engineering,Worker,3/29/09,,,0
+15264 ,BANK METBL BL (B.BASIN),M,Engineering,Worker,8/25/09,,,0
+15265,BANK METBL SHABAN (B.BASIN),M,Engineering,Top Management,3/6/10,,,0
+15266 ,RAO SHAHID,M,Engineering,Management,1/29/11,,,0
+15267,BANK NIB SEHRISH/SHIRAZ (9726209),F,Sales,Management,6/30/13,,,0
+15269,SEHRISH LALANI SALARY A/C,M,Engineering,Management,5/23/09,,,0
+15270 ,BANK NIB LOCKER DEPOSIT,M,Engineering,Executive,10/15/14,,,0
+15271,BANK BAHL SHANAZ KABANI (CLIFTON),M,Engineering,Executive,10/15/14,,,0
+15272 ,BANK MEEZAN A/C SEHRISH LALANI/SHIRAZ LALANI,M,Engineering,Executive,6/30/15,,,0
+15273,BANK HSBC SEHRISH LALANI,M,Engineering,Executive,8/23/15,,,0
+15274 ,SHK,M,Finance,Executive,7/1/09,,,0
+15275,SEHRISH WEDDING MURA,M,Finance,Executive,10/4/09,,,0
+15276 ,BANK NIB SOHAIL RAZA/SHIRAZ,M,Finance,Worker,10/21/11,,,0
+,,,,,,,,
+,,,,,,,,
